@@ -77,7 +77,7 @@ export default function HeroSection() {
             >
               <div className="space-y-5">
                 <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                  Климат<span className="font-semibold">Сервис</span>
+                  Мастер<span className="font-semibold"> Климата</span>
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
                   Климатическое оборудование под ключ
